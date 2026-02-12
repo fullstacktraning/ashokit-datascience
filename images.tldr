@@ -91,6 +91,21 @@
 			"typeName": "shape"
 		},
 		{
+			"editingShapeId": "shape:KY-j3Srk3slwDjplMtJKx",
+			"croppingShapeId": null,
+			"selectedShapeIds": [
+				"shape:KY-j3Srk3slwDjplMtJKx"
+			],
+			"hoveredShapeId": "shape:KY-j3Srk3slwDjplMtJKx",
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:PRupSTxBHJlvjn_xZ533J",
+			"pageId": "page:PRupSTxBHJlvjn_xZ533J",
+			"typeName": "instance_page_state"
+		},
+		{
 			"x": 1755.460102092577,
 			"y": 2608.252904767182,
 			"rotation": 0,
@@ -236,12 +251,54 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 440.80273724372427,
-			"y": -2033.999918781564,
-			"z": 0.4232079307022307,
+			"x": 2112.6444344906777,
+			"y": 252.0722899570991,
+			"z": 0.21044299901791508,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
+		},
+		{
+			"x": 292.7669069369634,
+			"y": 824.4530862834725,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:KY-j3Srk3slwDjplMtJKx",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 135.23828125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Agentic AI"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:PRupSTxBHJlvjn_xZ533J",
+			"index": "a4zAON6l",
+			"typeName": "shape"
 		},
 		{
 			"x": 243.2508544921875,
@@ -519,6 +576,14 @@
 			"typeName": "binding"
 		},
 		{
+			"x": 4.999999801317858,
+			"y": -478.3333143260751,
+			"z": 1,
+			"meta": {},
+			"id": "camera:page:PRupSTxBHJlvjn_xZ533J",
+			"typeName": "camera"
+		},
+		{
 			"x": 1655.8007572706222,
 			"y": 2730.0645070362707,
 			"rotation": 0,
@@ -561,12 +626,12 @@
 			"typeName": "shape"
 		},
 		{
-			"editingShapeId": "shape:8uBDya0m2jmkPnMoBYpqp",
+			"editingShapeId": null,
 			"croppingShapeId": null,
 			"selectedShapeIds": [
 				"shape:8uBDya0m2jmkPnMoBYpqp"
 			],
-			"hoveredShapeId": "shape:8uBDya0m2jmkPnMoBYpqp",
+			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -864,6 +929,13 @@
 			"typeName": "shape"
 		},
 		{
+			"meta": {},
+			"id": "page:PRupSTxBHJlvjn_xZ533J",
+			"name": "Page 2",
+			"index": "a2k0gAzG",
+			"typeName": "page"
+		},
+		{
 			"x": 1118.596357818479,
 			"y": 2815.417298771982,
 			"rotation": 0,
@@ -973,6 +1045,78 @@
 			},
 			"parentId": "page:page",
 			"index": "a2SmPUBG",
+			"typeName": "shape"
+		},
+		{
+			"x": 622.9817703035143,
+			"y": 138.16406071186077,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:19FdmHy0xDTQ1AR609nOM",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 439.2682189941406,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "NLP (Natural Language Processing)"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Ex."
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t\tAlexa, Siri,....."
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:PRupSTxBHJlvjn_xZ533J",
+			"index": "a2cAsn4V",
 			"typeName": "shape"
 		},
 		{
@@ -1344,6 +1488,216 @@
 			"typeName": "binding"
 		},
 		{
+			"x": 123.56770324707031,
+			"y": 122.50650596618652,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:nv4LoptNXsfeYrJYlK7bX",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 379.0533752441406,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "ML"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Gachibowli"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "500SQFT. ---   50lakh"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "1000 SQFT. ---   90lakh"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "1500 SQFT. ---  1.5cr"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "2000 SQFT ? ----   2cr - 2.1cr"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "DL (Deep Learning)"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Machine Trained on Images"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "20 Cat Images to My Machine"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Cat Image ?  ---  Cat"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:PRupSTxBHJlvjn_xZ533J",
+			"index": "a1dhl8gV",
+			"typeName": "shape"
+		},
+		{
 			"x": 1228.1781238536264,
 			"y": 2494.107391515237,
 			"rotation": 0,
@@ -1476,9 +1830,7 @@
 		{
 			"followingUserId": null,
 			"opacityForNextShape": 1,
-			"stylesForNextShape": {
-				"tldraw:geo": "ellipse"
-			},
+			"stylesForNextShape": {},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
@@ -1492,8 +1844,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 972.9166259765625,
-				"h": 527.0833129882812
+				"w": 1252.5,
+				"h": 785.8333129882812
 			},
 			"insets": [
 				false,
@@ -1508,7 +1860,7 @@
 			"isChatting": false,
 			"highlightedUserIds": [],
 			"isFocused": true,
-			"devicePixelRatio": 2.880000114440918,
+			"devicePixelRatio": 2.4000000953674316,
 			"isCoarsePointer": false,
 			"isHoveringCanvas": true,
 			"openMenus": [],
@@ -1518,7 +1870,7 @@
 			"duplicateProps": null,
 			"cameraState": "idle",
 			"id": "instance:instance",
-			"currentPageId": "page:page",
+			"currentPageId": "page:PRupSTxBHJlvjn_xZ533J",
 			"typeName": "instance"
 		},
 		{
@@ -1561,6 +1913,144 @@
 			},
 			"parentId": "page:page",
 			"index": "aOWzSWrG",
+			"typeName": "shape"
+		},
+		{
+			"x": 609.1275832917955,
+			"y": 313.8736859560014,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:g7id9XT9x4ernGtir2x0s",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 587.3736572265625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Generative AI"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t\tNew Content"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\tText"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "  Code"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "  Images"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "  Audio"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "  Video"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "         Ex. Chat GPT, Copilot, Gemini, Perplexicity"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:PRupSTxBHJlvjn_xZ533J",
+			"index": "a3zXxwql",
 			"typeName": "shape"
 		},
 		{
