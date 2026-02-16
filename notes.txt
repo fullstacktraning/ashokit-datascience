@@ -117,5 +117,30 @@ VSCode
     https://code.visualstudio.com/download
 
 
+numpy
+*****
+    numpy stands for "numerical python"
+    fast "arrays operations"
+    matrix "calculations"
+    Linear Algebra
+    Machine Learning "Preprocessing"
+    "Better" Memory Utilization
+
+    > pip install numpy
+
+Virtual Environment
+*******************
+    > python3 -m venv venv
+    
+    > source venv/bin/activate (Mac Book)
+    > venv\Scripts\activate (VSCode - cmd)
+    > venv\Scripts\Activate.ps1 (VSCode - PowerShell)
+
+    
+    > pip install numpy
+
+
+
+
 
 
