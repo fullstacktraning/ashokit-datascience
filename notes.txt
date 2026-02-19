@@ -139,6 +139,17 @@ Virtual Environment
     
     > pip install numpy
 
+pandas
+******
+    Data Analysis
+    Data Cleaning
+    Data manipulation
+    Working with tabular data (Ex. Excel Sheet / CSV FIle)
+
+    pip install pandas
+
+    import pandas as pd
+
 
 
 
