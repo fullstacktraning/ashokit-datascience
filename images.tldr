@@ -574,7 +574,7 @@
 			"selectedShapeIds": [
 				"shape:KY-j3Srk3slwDjplMtJKx"
 			],
-			"hoveredShapeId": "shape:nv4LoptNXsfeYrJYlK7bX",
+			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -582,6 +582,138 @@
 			"id": "instance_page_state:page:PRupSTxBHJlvjn_xZ533J",
 			"pageId": "page:PRupSTxBHJlvjn_xZ533J",
 			"typeName": "instance_page_state"
+		},
+		{
+			"x": 260.2484746177991,
+			"y": 541.1241159063806,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:a6ToKHLKsmmXhyJVqrrnF",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 461.6119689941406,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Overview"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "variables  -- store the data"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "functions  -- business logic "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                    reuse the business logic"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:Rj3U6egs1ni9MMqmdiM6T",
+			"index": "a3SB9lAV",
+			"typeName": "shape"
+		},
+		{
+			"x": 255.0238595306875,
+			"y": 2328.8410428210464,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Fj9fFTKbVy5vVV9_uqXq1",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 256.5772399902344,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "8) Project in Resume"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "9) FAQ'S --- Exp"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:Rj3U6egs1ni9MMqmdiM6T",
+			"index": "a8ItNpEV",
+			"typeName": "shape"
 		},
 		{
 			"x": 302.421874801318,
@@ -705,6 +837,150 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 305.7671267842805,
+			"y": 1010.2158992290531,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:220911XKweVN_1aT6GAym",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 421.3124694824219,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Libraries"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "*********"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "1) numpy.   --- numerical python"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "      mathematical operations"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "      good in memory management"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "2) pandas"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "       tablur data (rows & colums)"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "       Excel Sheets"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "       CSV files"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:Rj3U6egs1ni9MMqmdiM6T",
+			"index": "a5GrikUl",
+			"typeName": "shape"
+		},
+		{
 			"x": 1144.902131734641,
 			"y": 2226.6820341693488,
 			"rotation": 0,
@@ -774,6 +1050,156 @@
 			},
 			"parentId": "page:page",
 			"index": "aPu6TtxV",
+			"typeName": "shape"
+		},
+		{
+			"x": 223.80641174316406,
+			"y": 87.14192199707031,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:F1-pUVbZK5UAH6V4dThKZ",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 493.22003173828125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Python"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "*******"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "   High Level Interpreted Programming "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "   Language"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Python"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "    ML"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "    DL"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "    NLP"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "    Gen AI"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "    Agentic AI"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:Rj3U6egs1ni9MMqmdiM6T",
+			"index": "a1CXTZVV",
 			"typeName": "shape"
 		},
 		{
@@ -993,6 +1419,162 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 314.97395317642787,
+			"y": 1349.0016713418386,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:t547pYPqyIJMUWG83SejX",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 375.3326721191406,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "3) matplotlib"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "         Visualization"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "         Line Chart"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "         Pie Chart"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "         Bar Chart"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "         Scatter Plot"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "         ---"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "         ---"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "4) seaborn"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "        Visualization with styles"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:Rj3U6egs1ni9MMqmdiM6T",
+			"index": "a6fStluV",
+			"typeName": "shape"
+		},
+		{
 			"x": -68.27862274029684,
 			"y": 2515.648132499324,
 			"rotation": 0,
@@ -1160,6 +1742,72 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 219.62891200074532,
+			"y": 2732.7255786800806,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:uEzRUMJBl03AVp_AMZdTC",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 464.5362243652344,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "IDE'S --- VSCode (Visual Studio Code)"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "              Jupiter"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "              Anaconda"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:Rj3U6egs1ni9MMqmdiM6T",
+			"index": "aCwJtrlV",
+			"typeName": "shape"
+		},
+		{
 			"x": 105.12369457880675,
 			"y": 2898.971235983921,
 			"rotation": 0,
@@ -1218,6 +1866,228 @@
 				"terminal": "start"
 			},
 			"typeName": "binding"
+		},
+		{
+			"x": 245.06292345016112,
+			"y": 1782.4380838208695,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ErfHxZea0NHy_KL5Polbf",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 474.0197448730469,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Course"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "*******"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "1) Python --  10days"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "2) ML -- 7days"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "3) DL -- 10days"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "    FastAPI (GET,POST,PUT,DELETE)"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "4) NLP (Natural Language Processing)"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "      ChatBot --  10days"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "5) MLOps --> Frontend -- 2days"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "6) Gen AI -- 20days"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "        LLMS"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "        GPU'S"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "        MCP"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "        RAG"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "7) Agentic AI -- 1week"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "       End to End Project"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:Rj3U6egs1ni9MMqmdiM6T",
+			"index": "a7KYdoAV",
+			"typeName": "shape"
 		},
 		{
 			"x": 136.56900390651495,
@@ -1771,6 +2641,101 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 233.35502092485203,
+			"y": 2532.237340429312,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:a0IaF1J-FpZiExzMdvip1",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 126.8083724975586,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Python -- "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:Rj3U6egs1ni9MMqmdiM6T",
+			"index": "aA5AYykV",
+			"typeName": "shape"
+		},
+		{
+			"x": 378.7000813351748,
+			"y": 2856.249873369928,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:9KrFlHxQwV-ZCV1kSkruT",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 485.4400939941406,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "https://code.visualstudio.com/download",
+												"target": "_blank",
+												"rel": "noopener noreferrer nofollow",
+												"class": null
+											}
+										}
+									],
+									"text": "https://code.visualstudio.com/download"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:Rj3U6egs1ni9MMqmdiM6T",
+			"index": "aDAelPYV",
+			"typeName": "shape"
+		},
+		{
 			"x": 220.6770820087857,
 			"y": 547.6171680159044,
 			"rotation": 0,
@@ -1883,6 +2848,21 @@
 			"parentId": "page:wRpwYEsfbV6vdbVBIRc5e",
 			"index": "a40RgFzG",
 			"typeName": "shape"
+		},
+		{
+			"editingShapeId": "shape:9KrFlHxQwV-ZCV1kSkruT",
+			"croppingShapeId": null,
+			"selectedShapeIds": [
+				"shape:9KrFlHxQwV-ZCV1kSkruT"
+			],
+			"hoveredShapeId": "shape:QFPheBinv_GKEios_k6RT",
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:Rj3U6egs1ni9MMqmdiM6T",
+			"pageId": "page:Rj3U6egs1ni9MMqmdiM6T",
+			"typeName": "instance_page_state"
 		},
 		{
 			"x": 1518.2594600712328,
@@ -2089,12 +3069,81 @@
 			"typeName": "shape"
 		},
 		{
-			"editingShapeId": "shape:RhPo2f8tCh_yhoqVWfTn4",
+			"x": 378.1249794209458,
+			"y": 2548.752063253409,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:QFPheBinv_GKEios_k6RT",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 452.5841979980469,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "https://www.python.org/downloads/",
+												"target": "_blank",
+												"rel": "noopener noreferrer nofollow",
+												"class": null
+											}
+										}
+									],
+									"text": "https://www.python.org/downloads/"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "python --version"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:Rj3U6egs1ni9MMqmdiM6T",
+			"index": "aBNSTUyG",
+			"typeName": "shape"
+		},
+		{
+			"editingShapeId": null,
 			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:RhPo2f8tCh_yhoqVWfTn4"
-			],
-			"hoveredShapeId": "shape:RhPo2f8tCh_yhoqVWfTn4",
+			"selectedShapeIds": [],
+			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -2291,6 +3340,14 @@
 			"parentId": "page:wRpwYEsfbV6vdbVBIRc5e",
 			"index": "aD98SysV",
 			"typeName": "shape"
+		},
+		{
+			"x": 178.1249919070127,
+			"y": -2155.2082473933656,
+			"z": 0.5,
+			"meta": {},
+			"id": "camera:page:Rj3U6egs1ni9MMqmdiM6T",
+			"typeName": "camera"
 		},
 		{
 			"x": 138.46353149414062,
@@ -2500,6 +3557,48 @@
 			"name": "Page 2",
 			"index": "a2k0gAzG",
 			"typeName": "page"
+		},
+		{
+			"x": 273.33983175732556,
+			"y": 2434.532239849919,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:JbcGxFuJG0leUZM2hqs8e",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 215.27407836914062,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Day wise Agenda"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:Rj3U6egs1ni9MMqmdiM6T",
+			"index": "a97bBwlV",
+			"typeName": "shape"
 		},
 		{
 			"x": 791.2239376902581,
@@ -2819,9 +3918,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 5.83333310153735,
-			"y": -3261.6665370596984,
-			"z": 1,
+			"x": 6606.29562833464,
+			"y": -199.92393344641948,
+			"z": 0.05,
 			"meta": {},
 			"id": "camera:page:wRpwYEsfbV6vdbVBIRc5e",
 			"typeName": "camera"
@@ -3436,6 +4535,120 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 461.57767699493303,
+			"y": 254.0093266246496,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ceXvXKfQu2YB59jf7dTD2",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 265.6267395019531,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Frameworks"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "DJango"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Fast API - Rest API'S"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "   GET"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "   POST"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "   PUT"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "   DELETE"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:Rj3U6egs1ni9MMqmdiM6T",
+			"index": "a2CavPkV",
+			"typeName": "shape"
+		},
+		{
 			"x": 1228.1781238536264,
 			"y": 2494.107391515237,
 			"rotation": 0,
@@ -3568,10 +4781,7 @@
 		{
 			"followingUserId": null,
 			"opacityForNextShape": 1,
-			"stylesForNextShape": {
-				"tldraw:geo": "ellipse",
-				"tldraw:color": "red"
-			},
+			"stylesForNextShape": {},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
@@ -3585,8 +4795,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 1152.5,
-				"h": 597.5
+				"w": 952.0833129882812,
+				"h": 478.4721984863281
 			},
 			"insets": [
 				false,
@@ -3601,7 +4811,7 @@
 			"isChatting": false,
 			"highlightedUserIds": [],
 			"isFocused": true,
-			"devicePixelRatio": 2.4000000953674316,
+			"devicePixelRatio": 2.880000114440918,
 			"isCoarsePointer": false,
 			"isHoveringCanvas": true,
 			"openMenus": [],
@@ -3611,7 +4821,7 @@
 			"duplicateProps": null,
 			"cameraState": "idle",
 			"id": "instance:instance",
-			"currentPageId": "page:wRpwYEsfbV6vdbVBIRc5e",
+			"currentPageId": "page:Rj3U6egs1ni9MMqmdiM6T",
 			"typeName": "instance"
 		},
 		{
@@ -3698,6 +4908,144 @@
 			},
 			"parentId": "page:wRpwYEsfbV6vdbVBIRc5e",
 			"index": "aEyYR8gV",
+			"typeName": "shape"
+		},
+		{
+			"x": 260.568574488163,
+			"y": 701.1609923552601,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:2lmW3GqxGBVGEz7VW13ID",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 484.62628173828125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "OOPS"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "*****"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "   Object Oriented programming system"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "   class"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "   object"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "   inheritance"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "   ploymorphism"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "   encapsulation"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "   abstraction"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:Rj3U6egs1ni9MMqmdiM6T",
+			"index": "a4mhfBhV",
 			"typeName": "shape"
 		},
 		{
@@ -4034,6 +5382,13 @@
 			"parentId": "page:page",
 			"index": "a9nRa3CV",
 			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "page:Rj3U6egs1ni9MMqmdiM6T",
+			"name": "Page 4",
+			"index": "a4DNy9eV",
+			"typeName": "page"
 		},
 		{
 			"x": 606.4561097964094,

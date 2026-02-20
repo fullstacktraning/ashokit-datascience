@@ -1,13 +1,36 @@
 import pandas as pd
 
-data = {
-    "Department" : ["IT","HR","IT","HR"],
-    "Salary" : [50000,40000,60000,45000]
-}
-df = pd.DataFrame(data)
-print(
-    df.groupby("Department")["Salary"].median()
-)
+
+df = pd.read_excel("Students.xlsx")
+df = df[df["Marks"]>80]
+df["Grade"] = "A++"
+print(df)
+df.to_excel("top.xlsx",index=False)
+res = pd.read_excel("top.xlsx")
+print(res)
+
+
+# data = {
+#     "ID" : [1,2,3],
+#     "Name" : ["Emp1","Emp2","Emp3"],
+#     "Salary" : [10000,20000,30000]
+# }
+
+# df = pd.DataFrame(data)
+# df.to_excel("output.xlsx",index=False)
+# df.to_excel("output1.xlsx",sheet_name="Employee",index=False)
+
+
+
+
+# data = {
+#     "Department" : ["IT","HR","IT","HR"],
+#     "Salary" : [50000,40000,60000,45000]
+# }
+# df = pd.DataFrame(data)
+# print(
+#     df.groupby("Department")["Salary"].median()
+# )
 
 # df = pd.read_csv("Book1.csv")
 # print(df.sort_values("Marks",ascending=False,inplace=True))
