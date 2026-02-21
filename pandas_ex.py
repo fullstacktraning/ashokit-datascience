@@ -7,7 +7,8 @@ df["Grade"] = "A++"
 print(df)
 df.to_excel("top.xlsx",index=False)
 res = pd.read_excel("top.xlsx")
-print(res)
+#print(res)
+
 
 
 # data = {
