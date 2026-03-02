@@ -14,3 +14,4 @@ model.fit(X,y)
 marks = model.predict([[10]])
 print(marks[0])
 
+
