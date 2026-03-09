@@ -1,0 +1,14 @@
+
+ML
+**
+    1) Regression
+
+    2) Classification
+
+
+Ex.
+    
+    0.    30.    0
+    1.    25.    1
+    2.    20.    1.    model     Predict
+    0.    28.    0
