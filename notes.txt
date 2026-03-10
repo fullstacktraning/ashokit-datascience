@@ -12,3 +12,68 @@ Ex.
     1.    25.    1
     2.    20.    1.    model     Predict
     0.    28.    0
+
+
+MLOps
+*****
+    GitHub
+        GitHub Hooks
+
+    Jenkins. (Pipeline)
+
+    Docker (Images). (OS)
+
+    EC2. (Virtual Machine)
+
+1) create EC2 instance
+
+2) open below ports
+        8000. (uvicorn)  TCP
+        8080. (jenkins). TCP
+        80. (Docker).  HTTP
+
+3) connect to EC2 and update ubuntu
+
+    sudo apt update -y
+
+4) install Jenkins
+
+        jenkins.io
+        https://www.jenkins.io/doc/book/installing/linux/
+
+5) install Docker
+        sudo apt update -y
+        sudo apt install docker.io -y
+        docker --version
+
+6) enable permissions
+        docker jenkins
+        docker ubuntu
+        jenkins ubuntu
+
+        sudo usermod -aG docker jenkins
+        sudo usermod -aG docker ubuntu
+        sudo usermod -aG jenkins ubuntu
+
+        sudo systemctl restart jenkins
+        sudo systemctl status jenkins
+
+
+7) get the jenkins password
+    sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+
+        d6355448790f416eba0af675be48d378
+
+8) create Dockerfile
+
+9) push code to GitHub  
+        https://github.com/fullstacktraning/ml-ops-7am.git
+
+10) prepare Pipeline
+        Jenkinsfile    
+
+11) connect to Jenkins
+        install below plugins
+                1) Docker
+                2) Docker Pipeline
+                3) GitServer
