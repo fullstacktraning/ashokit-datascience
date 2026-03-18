@@ -77,3 +77,27 @@ MLOps
                 1) Docker
                 2) Docker Pipeline
                 3) GitServer
+
+
+1) Features
+
+2) Label
+
+3) Training
+
+4) Prediction
+
+4) Error
+
+        error = y(actual) = y(prediction)
+
+        1) Bias Error
+                Training Error
+                Testing Results are Bad
+
+        2) Variance Error
+                Training Good
+                Testing Results are Bad
+
+        3) Noise
+              
