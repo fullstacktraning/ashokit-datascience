@@ -12,7 +12,7 @@ df = pd.DataFrame(data)
 X = df[["hours"]]
 y = df["pass"]
 
-model = LogisticRegression()
+model = LogisticRegression() # sigmoid
 model.fit(X,y)
 
 res = model.predict([[10]])
