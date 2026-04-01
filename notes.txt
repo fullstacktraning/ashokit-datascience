@@ -102,6 +102,28 @@ MLOps
         3) Noise
 
 
-Agglomerative Clustering
-************************
-              
+                                        Machine Learning
+
+        
+        Supervised                              Unsupervised                                Reinforcement
+
+    Regression.    Classification               1) PCA
+                                                    Dimensionality Reduction
+   1) LinearRegreesion    1) LogisticRegression     Real Time : Compress Images
+                          2) DecisionTree
+                          3) RandomForest       2) KMeans
+                          4) KNN                     Clustering
+                          5) NaiveBayes              Ex.
+                          6) SVM                        Shopping Mall
+
+                                                3) Agglomerative Clustering
+                                                    
+                                                4) DBScan
+                                                    Density Based Spatial Clustering Application with Noise
+                                                     
+                                                    Attribute
+
+                                                5) Apriori
+
+
+                                                   
