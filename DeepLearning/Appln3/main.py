@@ -9,6 +9,12 @@ from tensorflow import keras
 # import numpy
 import numpy as np
 
+# import fastapi
+from fastapi import FastAPI
+from pydantic import BaseModel
+
+app = FastAPI()
+
 # create the model
 model = keras.Sequential([
     keras.layers.Dense(3,activation='relu'),
@@ -30,6 +36,18 @@ model.fit(X,y,epochs=500)
 # epochs - 100 (Better)
 # epochs - 500 (Good)
 
-# print( model.predict([5.0]) )
-print(model.predict(np.array([[5.0]])))
+class InputData(BaseModel):
+    value:float
+
+@app.get("/")
+def home():
+    return {"message":"welcome to get request !!!"}
+
+
+@app.post("/predict")
+def predict(data:InputData):
+    res = model.predict(np.array([[data.value]]))
+    return {
+        "prediction" : float(res[0][0])
+    }
 
