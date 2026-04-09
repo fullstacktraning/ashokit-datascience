@@ -372,9 +372,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 773.0088855378664,
-			"y": -2588.075564055152,
-			"z": 0.9334920151670311,
+			"x": 3039.08573407464,
+			"y": 202.85456620102767,
+			"z": 0.20356140387520802,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -629,10 +629,238 @@
 			"typeName": "shape"
 		},
 		{
-			"editingShapeId": "shape:oKndJSVtGkUKXTyqwifAA",
+			"x": 329.6015625,
+			"y": 111.25390625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:hhiuCdX-u-gsFukSpTVJ8",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 574.9609375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Err = Actual - Prediction"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Err --> model improves accuracy based on Err"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "MSE"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Mean Squared Error"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Output : Regression"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Actual : [10,20,30]"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Pred : [8,18,33]"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Errors = [2,2,-3]"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Squares = [4,4,9]"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Average = 5.67"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						}
+					]
+				}
+			},
+			"parentId": "page:zikrDbb0cATYuLW3AHiEB",
+			"index": "a1IdOZMV",
+			"typeName": "shape"
+		},
+		{
+			"editingShapeId": null,
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:oKndJSVtGkUKXTyqwifAA"
+				"shape:eoz89WpvXhZtNHd2Ur3Ke"
 			],
 			"hoveredShapeId": null,
 			"erasingShapeIds": [],
@@ -726,6 +954,21 @@
 			"parentId": "page:page",
 			"index": "aLiwJWqV",
 			"typeName": "shape"
+		},
+		{
+			"editingShapeId": "shape:RrmJP9rZdOADyu9VOKb-4",
+			"croppingShapeId": null,
+			"selectedShapeIds": [
+				"shape:RrmJP9rZdOADyu9VOKb-4"
+			],
+			"hoveredShapeId": "shape:RrmJP9rZdOADyu9VOKb-4",
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:zikrDbb0cATYuLW3AHiEB",
+			"pageId": "page:zikrDbb0cATYuLW3AHiEB",
+			"typeName": "instance_page_state"
 		},
 		{
 			"x": -235.48171500963574,
@@ -1165,6 +1408,14 @@
 			"parentId": "page:page",
 			"index": "aMRIMKlV",
 			"typeName": "shape"
+		},
+		{
+			"x": -90,
+			"y": -774,
+			"z": 1,
+			"meta": {},
+			"id": "camera:page:zikrDbb0cATYuLW3AHiEB",
+			"typeName": "camera"
 		},
 		{
 			"meta": {},
@@ -1692,8 +1943,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 1177.5,
-				"h": 655
+				"w": 1422,
+				"h": 809
 			},
 			"insets": [
 				false,
@@ -1708,7 +1959,7 @@
 			"isChatting": false,
 			"highlightedUserIds": [],
 			"isFocused": true,
-			"devicePixelRatio": 2.4000000953674316,
+			"devicePixelRatio": 2,
 			"isCoarsePointer": false,
 			"isHoveringCanvas": true,
 			"openMenus": [],
@@ -1718,7 +1969,7 @@
 			"duplicateProps": null,
 			"cameraState": "idle",
 			"id": "instance:instance",
-			"currentPageId": "page:page",
+			"currentPageId": "page:zikrDbb0cATYuLW3AHiEB",
 			"typeName": "instance"
 		},
 		{
@@ -1812,6 +2063,13 @@
 			"parentId": "page:page",
 			"index": "aVxBJzil",
 			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "page:zikrDbb0cATYuLW3AHiEB",
+			"name": "Page 2",
+			"index": "a2ygFqSV",
+			"typeName": "page"
 		},
 		{
 			"x": -393.8811168691051,
@@ -1962,6 +2220,210 @@
 				"terminal": "end"
 			},
 			"typeName": "binding"
+		},
+		{
+			"x": 364.109375,
+			"y": 790.51171875,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:RrmJP9rZdOADyu9VOKb-4",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 318.1171875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Binary Crossentropy"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "*********************"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Classification"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Disease - Yes / No"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Spam - Spam /  Not Spam"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Pass - Pass / Fail"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Probability (0-1)"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Prediction - 0.9"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Loss = -log(0.9) = 0.10536"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Pred - 0.2"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Loss = -log(0.2) = 1.6094"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:zikrDbb0cATYuLW3AHiEB",
+			"index": "a2HzgSxG",
+			"typeName": "shape"
 		},
 		{
 			"x": -337.18036300735486,
