@@ -522,12 +522,208 @@
 			"typeName": "shape"
 		},
 		{
-			"editingShapeId": "shape:TELM35ZncI65kbfPMC70U",
+			"x": 494.86902178121557,
+			"y": 1419.2935689738497,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:tXYp7oaL9OmkVsS6X8aEv",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 1426.03125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Actual (3)"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "1"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "2              "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "3"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Predicted : [0.1, 0.8, 0.99] --- 3rd 0.99"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Loss = Low"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Predicted = [0.9 , 0.7, 0.1] --- 0.9 1"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Loss = High"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "loss = 'sparse_categorical_cross_entropy' ---> model ---> adjust weights  to make High - Low (Back Propagation)"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:hebvJQZCwUSqMFB4WWC09",
+			"index": "a457v5zl",
+			"typeName": "shape"
+		},
+		{
+			"editingShapeId": null,
 			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:TELM35ZncI65kbfPMC70U"
-			],
-			"hoveredShapeId": "shape:TELM35ZncI65kbfPMC70U",
+			"selectedShapeIds": [],
+			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -535,6 +731,66 @@
 			"id": "instance_page_state:page:1iyb9rKpX6uQwRRiLkJWz",
 			"pageId": "page:1iyb9rKpX6uQwRRiLkJWz",
 			"typeName": "instance_page_state"
+		},
+		{
+			"x": 323.1640625,
+			"y": 949.08984375,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:tQKC_CnqOvFbPLDvZCh_M",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 517.171875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "activation=\"softmax\""
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "loss=\"sparse_categorical_cross_entropy\""
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:hebvJQZCwUSqMFB4WWC09",
+			"index": "a3UwDREG",
+			"typeName": "shape"
 		},
 		{
 			"x": 172.47631421880678,
@@ -597,6 +853,19 @@
 				"terminal": "start"
 			},
 			"typeName": "binding"
+		},
+		{
+			"editingShapeId": null,
+			"croppingShapeId": null,
+			"selectedShapeIds": [],
+			"hoveredShapeId": null,
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:hebvJQZCwUSqMFB4WWC09",
+			"pageId": "page:hebvJQZCwUSqMFB4WWC09",
+			"typeName": "instance_page_state"
 		},
 		{
 			"x": -2972.902343749998,
@@ -747,11 +1016,19 @@
 			"typeName": "shape"
 		},
 		{
-			"x": -474.53702472799336,
-			"y": -30.671295500711768,
+			"x": 58.46704137745837,
+			"y": 225.55792679033777,
 			"z": 1,
 			"meta": {},
 			"id": "camera:page:1iyb9rKpX6uQwRRiLkJWz",
+			"typeName": "camera"
+		},
+		{
+			"x": -352.58486485866354,
+			"y": -1782.59154162078,
+			"z": 0.6912883143661525,
+			"meta": {},
+			"id": "camera:page:hebvJQZCwUSqMFB4WWC09",
 			"typeName": "camera"
 		},
 		{
@@ -937,6 +1214,232 @@
 			},
 			"parentId": "page:DCydZCjCl17aa6kn7AZBZ",
 			"index": "aATsgU5l",
+			"typeName": "shape"
+		},
+		{
+			"x": 139.1953125,
+			"y": 61.16796875,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:b-9zlvR608sDQd3MyJSQy",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 724.7734375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Sigmoid"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "********"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Realtime:"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "1) Classification Ex. Yes / No  Pass / Fail.  0 / 1. True / False"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "activation='sigmoid'"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "loss='binary_crossentropy'"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "orderedList",
+							"attrs": {
+								"dir": "auto",
+								"start": 2,
+								"type": null
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Range - 0 to 1"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "S Shape"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Vanishing Gradient"
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Binary 0 to 1.   0.5"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Bipolar -1 to 1. (Reviews System) 0"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:hebvJQZCwUSqMFB4WWC09",
+			"index": "a1PO9Ukl",
 			"typeName": "shape"
 		},
 		{
@@ -1142,6 +1645,13 @@
 		},
 		{
 			"meta": {},
+			"id": "page:hebvJQZCwUSqMFB4WWC09",
+			"name": "Page 4",
+			"index": "a4ld1HAV",
+			"typeName": "page"
+		},
+		{
+			"meta": {},
 			"id": "binding:jDRJPfLHRFxBG1lXfnxnd",
 			"type": "arrow",
 			"fromId": "shape:YTUGR8k7Fth8d07V8dbbO",
@@ -1232,9 +1742,7 @@
 		{
 			"followingUserId": null,
 			"opacityForNextShape": 1,
-			"stylesForNextShape": {
-				"tldraw:geo": "rectangle"
-			},
+			"stylesForNextShape": {},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
@@ -1248,8 +1756,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 785.3009033203125,
-				"h": 377.8935241699219
+				"w": 1122,
+				"h": 809
 			},
 			"insets": [
 				false,
@@ -1264,7 +1772,7 @@
 			"isChatting": false,
 			"highlightedUserIds": [],
 			"isFocused": true,
-			"devicePixelRatio": 3.4560000896453857,
+			"devicePixelRatio": 2,
 			"isCoarsePointer": false,
 			"isHoveringCanvas": true,
 			"openMenus": [],
@@ -1274,7 +1782,7 @@
 			"duplicateProps": null,
 			"cameraState": "idle",
 			"id": "instance:instance",
-			"currentPageId": "page:1iyb9rKpX6uQwRRiLkJWz",
+			"currentPageId": "page:hebvJQZCwUSqMFB4WWC09",
 			"typeName": "instance"
 		},
 		{
@@ -1327,6 +1835,138 @@
 			},
 			"parentId": "page:DCydZCjCl17aa6kn7AZBZ",
 			"index": "aCp0z9lG",
+			"typeName": "shape"
+		},
+		{
+			"x": 320.015625,
+			"y": 622.66015625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Gr4JveP5-n9k7sJexVeI4",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 317.8828125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "softmax"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "********"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Realtime : "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\tmulti class output"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "  "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "   formula = exp(y)"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                  -------"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                  sum of exp(y)"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:hebvJQZCwUSqMFB4WWC09",
+			"index": "a2PQuAFV",
 			"typeName": "shape"
 		},
 		{
