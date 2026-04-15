@@ -1,0 +1,49 @@
+1) what is CNN
+2) why CNN
+3) Types of Images
+4) Edges
+    Image
+    Filter/Kernal
+    Feature
+5) Padding
+6) Stride
+7) Pooling
+
+CNN Stands for Convolutional Neural Network
+
+Issues of ANN:
+    1) high computational cost
+    2) Overfitting
+    3) Loss of Spatial Features
+
+Note : CNN overcomes above issues
+
+Images
+******
+    1) Gary Images
+    2) RGB Images
+
+Gray Images
+***********
+    Colors - 1) white  2) Black  3) Gray (light gray - dark gray)
+    2D
+    Normalization (model acc will increase)
+    Ex.
+            [
+                [10,12,255,0,......]
+            ]
+
+RGB Images
+    R - Red (0-255)
+    G - Green 
+    B - Blue
+
+    Numpy 3D
+
+    Range - 0 - 255
+
+
+Edges
+*****
+    where ever intensity changes drastically automatically Edge will create
+    CNN will identify and learn(Train) respective Edge
