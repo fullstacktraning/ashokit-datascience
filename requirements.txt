@@ -7,3 +7,5 @@ pandas
 openpyxl
 mlxtend
 tensorflow
+opencv-python
+kaggle==1.5.16
