@@ -5,6 +5,7 @@ chest_xray
 chest-xray-pneumonia.zip
 
 # 🔴 Ignore dataset files
+data/
 dataset/
 chest_xray/
 *.zip

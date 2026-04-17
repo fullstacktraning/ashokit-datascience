@@ -127,3 +127,60 @@ MLOps
 
 
                                                    
+CloudWatch
+**********
+1) launch instance
+        
+        name : cloudwatch-demo (i-042c3110c1b2ab2e9) (launch-wizard-3) (sg-0f604952f4d2c6f51)
+        t3.large
+
+2) open below port (inbound rules)
+        HTTP 80
+
+3) Create SNS (Email Notification)
+        Search(AWS) : Simple Notification Service
+        Topics (left side)
+        Click Create topic
+        Type → Standard
+        Name → cpu-alert-topic
+        👉 Click Create topic
+
+4) Create Email Subscription
+        Create subscription
+        Protocol → Email
+        Endpoint → your email (example: abc@gmail.com)
+        Create subscription
+
+5) Attach SNS to CloudWatch
+        Search : Amazon CloudWatch
+       
+        Alarms
+        Create alarm
+        Select metric
+        EC2
+        Per-Instance Metrics
+        👉 CPUUtilization
+        Click Select metric
+  
+        Fill like this:
+
+                Threshold type → Static
+                Whenever CPU is → Greater than 70
+                Period → 5 minutes
+
+                👉 Meaning:
+                If CPU > 70% → alarm triggers
+        
+        Click “Additional configuration”
+        Datapoints to alarm → 2 out of 2 (or 2 out of 3)
+
+        Alram (Settings)
+
+6) Notification section
+        yes > /dev/null &
+
+        Run 2–3 times:
+
+        yes > /dev/null &
+
+
